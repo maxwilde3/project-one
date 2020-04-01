@@ -1,0 +1,247 @@
+,Mother's Marital Status,Mother's Education Code,Deaths,Births,Death Rate
+0,Married,1,1,138,7.25 (Unreliable)
+1,Married,2,1,91,10.99 (Unreliable)
+2,Married,Exc,1,88,11.36 (Unreliable)
+3,Married,,3,344,8.72 (Unreliable)
+4,Married,1,112,17473,6.41
+5,Married,2,849,105459,8.05
+6,Married,3,1010,138341,7.3
+7,Married,4,285,44049,6.47
+8,Married,5,19,2232,8.51 (Unreliable)
+9,Married,Unk,80,4144,19.31
+10,Married,Exc,853,105801,8.06
+11,Married,,3208,417731,7.68
+12,Married,1,701,121387,5.77
+13,Married,2,2285,343768,6.65
+14,Married,3,5826,998155,5.84
+15,Married,4,4219,832204,5.07
+16,Married,5,846,217185,3.9
+17,Married,6,824,238591,3.45
+18,Married,7,63,19029,3.31
+19,Married,8,6,1966,3.05 (Unreliable)
+20,Married,Unk,540,34907,15.47
+21,Married,Exc,4974,842849,5.9
+22,Married,,20283,3650041,5.56
+23,Married,1,1053,199718,5.27
+24,Married,2,2238,368286,6.08
+25,Married,3,6336,1190719,5.32
+26,Married,4,6165,1348770,4.57
+27,Married,5,2774,691851,4.01
+28,Married,6,5915,1765661,3.35
+29,Married,7,1704,548457,3.11
+30,Married,8,338,100461,3.36
+31,Married,Unk,1186,81434,14.56
+32,Married,Exc,8197,1791923,4.57
+33,Married,,35905,8087280,4.44
+34,Married,1,1093,207188,5.28
+35,Married,2,1592,268781,5.92
+36,Married,3,4568,827980,5.52
+37,Married,4,4958,1001698,4.95
+38,Married,5,2574,614118,4.19
+39,Married,6,7239,2250252,3.22
+40,Married,7,3516,1202051,2.93
+41,Married,8,961,344482,2.79
+42,Married,Unk,1329,105227,12.63
+43,Married,Exc,8026,1863957,4.31
+44,Married,,35856,8685734,4.13
+45,Married,1,891,138035,6.45
+46,Married,2,869,142488,6.1
+47,Married,3,2529,392020,6.45
+48,Married,4,2519,448086,5.62
+49,Married,5,1353,274943,4.92
+50,Married,6,3949,1044913,3.78
+51,Married,7,2108,620761,3.4
+52,Married,8,678,228693,2.96
+53,Married,Unk,872,65396,13.33
+54,Married,Exc,4751,940037,5.05
+55,Married,,20521,4295372,4.78
+56,Married,1,414,42048,9.85
+57,Married,2,329,35186,9.35
+58,Married,3,803,93323,8.6
+59,Married,4,719,96946,7.42
+60,Married,5,388,56884,6.82
+61,Married,6,1111,203298,5.46
+62,Married,7,536,115601,4.64
+63,Married,8,215,47321,4.54
+64,Married,Unk,289,18238,15.85
+65,Married,Exc,1345,198771,6.77
+66,Married,,6149,907616,6.77
+67,Married,1,46,3064,15.01
+68,Married,2,21,2079,10.1
+69,Married,3,69,5930,11.64
+70,Married,4,77,6169,12.48
+71,Married,5,42,3668,11.45
+72,Married,6,115,14157,8.12
+73,Married,7,72,8356,8.62
+74,Married,8,17,3906,4.35 (Unreliable)
+75,Married,Unk,48,2828,16.97
+76,Married,Exc,120,13684,8.77
+77,Married,,626,63841,9.81
+78,Married,1,4,183,21.86 (Unreliable)
+79,Married,2,1,115,8.70 (Unreliable)
+80,Married,3,1,396,2.53 (Unreliable)
+81,Married,4,9,409,22.00 (Unreliable)
+82,Married,5,2,300,6.67 (Unreliable)
+83,Married,6,5,1097,4.56 (Unreliable)
+84,Married,7,11,783,14.05 (Unreliable)
+85,Married,8,3,448,6.70 (Unreliable)
+86,Married,Unk,5,738,6.78 (Unreliable)
+87,Married,Exc,12,985,12.18 (Unreliable)
+88,Married,,53,5454,9.72
+89,Married,,122605,26113413,4.7
+90,Unmarried,1,291,18879,15.41
+91,Unmarried,2,117,10580,11.06
+92,Unmarried,Unk,16,500,32.00 (Unreliable)
+93,Unmarried,Exc,169,11123,15.19
+94,Unmarried,,594,41173,14.43
+95,Unmarried,1,772,92887,8.31
+96,Unmarried,2,10129,1105348,9.16
+97,Unmarried,3,6470,809756,7.99
+98,Unmarried,4,1618,215182,7.52
+99,Unmarried,5,46,6396,7.19
+100,Unmarried,6,3,338,8.88 (Unreliable)
+101,Unmarried,Unk,728,29489,24.69
+102,Unmarried,Exc,7638,752284,10.15
+103,Unmarried,,27404,3011726,9.1
+104,Unmarried,1,1059,163143,6.49
+105,Unmarried,2,8486,965773,8.79
+106,Unmarried,3,17070,2122350,8.04
+107,Unmarried,4,9455,1367219,6.92
+108,Unmarried,5,1075,190571,5.64
+109,Unmarried,6,578,107481,5.38
+110,Unmarried,7,36,5158,6.98
+111,Unmarried,8,7,1000,7.00 (Unreliable)
+112,Unmarried,Unk,1653,60458,27.34
+113,Unmarried,Exc,12749,1422185,8.96
+114,Unmarried,,52168,6405338,8.14
+115,Unmarried,1,1015,186362,5.45
+116,Unmarried,2,4913,559139,8.79
+117,Unmarried,3,9732,1206043,8.07
+118,Unmarried,4,6760,953220,7.09
+119,Unmarried,5,1580,265695,5.95
+120,Unmarried,6,1285,251503,5.11
+121,Unmarried,7,219,39707,5.52
+122,Unmarried,8,24,5977,4.02
+123,Unmarried,Unk,1408,52728,26.7
+124,Unmarried,Exc,7867,914785,8.6
+125,Unmarried,,34804,4435159,7.85
+126,Unmarried,1,873,155512,5.61
+127,Unmarried,2,2330,283138,8.23
+128,Unmarried,3,4917,568112,8.65
+129,Unmarried,4,3631,471034,7.71
+130,Unmarried,5,1182,176733,6.69
+131,Unmarried,6,1107,195154,5.67
+132,Unmarried,7,286,58047,4.93
+133,Unmarried,8,42,10872,3.86
+134,Unmarried,Unk,974,35663,27.31
+135,Unmarried,Exc,4126,469439,8.79
+136,Unmarried,,19469,2423704,8.03
+137,Unmarried,1,556,88439,6.29
+138,Unmarried,2,1117,120665,9.26
+139,Unmarried,3,2091,232042,9.01
+140,Unmarried,4,1609,189389,8.5
+141,Unmarried,5,636,81268,7.83
+142,Unmarried,6,688,108184,6.36
+143,Unmarried,7,280,44583,6.28
+144,Unmarried,8,47,11600,4.05
+145,Unmarried,Unk,534,19418,27.5
+146,Unmarried,Exc,2105,210281,10.01
+147,Unmarried,,9664,1105869,8.74
+148,Unmarried,1,221,24124,9.16
+149,Unmarried,2,277,27227,10.17
+150,Unmarried,3,570,52010,10.96
+151,Unmarried,4,415,40977,10.13
+152,Unmarried,5,171,18426,9.28
+153,Unmarried,6,229,30931,7.4
+154,Unmarried,7,87,15731,5.53
+155,Unmarried,8,24,5528,4.34
+156,Unmarried,Unk,169,5919,28.55
+157,Unmarried,Exc,607,53111,11.43
+158,Unmarried,,2770,273984,10.11
+159,Unmarried,1,18,1346,13.37 (Unreliable)
+160,Unmarried,2,18,1332,13.51 (Unreliable)
+161,Unmarried,3,50,2699,18.53
+162,Unmarried,4,26,1997,13.02
+163,Unmarried,5,14,942,14.86 (Unreliable)
+164,Unmarried,6,22,2343,9.39
+165,Unmarried,7,14,1621,8.64 (Unreliable)
+166,Unmarried,8,7,832,8.41 (Unreliable)
+167,Unmarried,Unk,18,769,23.41 (Unreliable)
+168,Unmarried,Exc,36,3232,11.14
+169,Unmarried,,225,17113,13.15
+170,Unmarried,2,2,60,33.33 (Unreliable)
+171,Unmarried,3,3,165,18.18 (Unreliable)
+172,Unmarried,6,2,233,8.58 (Unreliable)
+173,Unmarried,7,2,176,11.36 (Unreliable)
+174,Unmarried,8,3,144,20.83 (Unreliable)
+175,Unmarried,Unk,1,189,5.29 (Unreliable)
+176,Unmarried,Exc,3,280,10.71 (Unreliable)
+177,Unmarried,,16,1485,10.77 (Unreliable)
+178,Unmarried,,147113,17715551,8.3
+179,Not Reported,1,1,666,1.50 (Unreliable)
+180,Not Reported,2,41,7452,5.5
+181,Not Reported,3,41,7938,5.17
+182,Not Reported,4,12,2003,5.99 (Unreliable)
+183,Not Reported,5,1,59,16.95 (Unreliable)
+184,Not Reported,Unk,7,798,8.77 (Unreliable)
+185,Not Reported,,103,18927,5.44
+186,Not Reported,1,5,2208,2.26 (Unreliable)
+187,Not Reported,2,48,9503,5.05
+188,Not Reported,3,133,33859,3.93
+189,Not Reported,4,86,22068,3.9
+190,Not Reported,5,16,3485,4.59 (Unreliable)
+191,Not Reported,6,2,2990,0.67 (Unreliable)
+192,Not Reported,7,1,209,4.78 (Unreliable)
+193,Not Reported,Unk,22,3069,7.17
+194,Not Reported,,314,77426,4.06
+195,Not Reported,1,22,3777,5.82
+196,Not Reported,2,50,10713,4.67
+197,Not Reported,3,147,33952,4.33
+198,Not Reported,4,90,31020,2.9
+199,Not Reported,5,42,9998,4.2
+200,Not Reported,6,57,22502,2.53
+201,Not Reported,7,6,6300,0.95 (Unreliable)
+202,Not Reported,8,1,915,1.09 (Unreliable)
+203,Not Reported,Unk,54,5735,9.42
+204,Not Reported,,470,124912,3.76
+205,Not Reported,1,22,5206,4.23
+206,Not Reported,2,28,8562,3.27
+207,Not Reported,3,99,22948,4.31
+208,Not Reported,4,73,23764,3.07
+209,Not Reported,5,23,10445,2.2
+210,Not Reported,6,75,39202,1.91
+211,Not Reported,7,39,18840,2.07
+212,Not Reported,8,12,5867,2.05 (Unreliable)
+213,Not Reported,Unk,65,7533,8.63
+214,Not Reported,,437,142367,3.07
+215,Not Reported,1,28,4588,6.1
+216,Not Reported,2,22,5239,4.2
+217,Not Reported,3,50,11391,4.39
+218,Not Reported,4,54,11699,4.62
+219,Not Reported,5,21,5537,3.79
+220,Not Reported,6,55,23947,2.3
+221,Not Reported,7,36,12986,2.77
+222,Not Reported,8,16,5414,2.96 (Unreliable)
+223,Not Reported,Unk,43,4793,8.97
+224,Not Reported,,326,85594,3.81
+225,Not Reported,1,12,1590,7.55 (Unreliable)
+226,Not Reported,2,12,1544,7.77 (Unreliable)
+227,Not Reported,3,17,2710,6.27 (Unreliable)
+228,Not Reported,4,14,2497,5.61 (Unreliable)
+229,Not Reported,5,4,1206,3.32 (Unreliable)
+230,Not Reported,6,20,5072,3.94
+231,Not Reported,7,5,2871,1.74 (Unreliable)
+232,Not Reported,Unk,8,1438,5.56 (Unreliable)
+233,Not Reported,,94,20232,4.65
+234,Not Reported,1,1,124,8.06 (Unreliable)
+235,Not Reported,3,1,182,5.49 (Unreliable)
+236,Not Reported,6,2,391,5.12 (Unreliable)
+237,Not Reported,7,1,232,4.31 (Unreliable)
+238,Not Reported,Unk,5,373,13.40 (Unreliable)
+239,Not Reported,,10,1756,5.69 (Unreliable)
+240,Not Reported,4,2,16,125.00 (Unreliable)
+241,Not Reported,6,1,38,26.32 (Unreliable)
+242,Not Reported,Unk,2,130,15.38 (Unreliable)
+243,Not Reported,,5,241,20.75 (Unreliable)
+244,Not Reported,,1758,471606,3.73
+245,,,271475,44300570,6.13
